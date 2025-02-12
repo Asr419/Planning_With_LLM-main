@@ -1,5 +1,5 @@
 # Planning_With_LLM
-This repo contains the code for Planning with Alignment (PlanAlign). 
+This repository contains the code for Planning with Alignment (PlanAlign). 
 
 # Scienceworld
 All the prompts are in scworld.py.
