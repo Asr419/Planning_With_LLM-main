@@ -1,5 +1,5 @@
 # Planning_With_LLM
-This repository contains the code for Planning with Alignment (PlanAlign). 
+This repository contains the code for Sequential Thought-Action Planner (STAP). 
 
 # Scienceworld
 All the prompts are in scworld.py.
