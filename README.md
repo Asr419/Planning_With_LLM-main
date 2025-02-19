@@ -3,7 +3,7 @@ This repository contains the code for Sequential Thought-Action Planner (STAP).
 
 # Scienceworld
 All the prompts are in scworld.py.
-
+md ![Trajectory Example](example_trajec.png)
 <br>`react_sc_ao.py` - a react example
 <br>`react_scieceworld.py` - react implemented in scienceworld use python command to run 
 <br>Set `randVariationIdx = env.get_random_variation_test()` for getting results in scienceworld test environment.
